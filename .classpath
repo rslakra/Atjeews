@@ -1,16 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.ANDROID_FRAMEWORK"/>
-	<classpathentry exported="true" kind="lib" path="E:/projects/TJWS2/1.x/lib/war.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/projects/TJWS2/1.x/lib/webserver.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/projects/servlet/javax.servlet.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/projects/jasper7/build/jasper.jar"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.LIBRARIES"/>
 	<classpathentry exported="true" kind="con" path="com.android.ide.eclipse.adt.DEPENDENCIES"/>
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="src" path="gen"/>
-	<classpathentry exported="true" kind="lib" path="E:/projects/TJWS2/1.x/lib/wskt.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/products/websocket-spec~source-code-repository/trunk/api/client/lib/javax.websocket-client-api.jar"/>
-	<classpathentry exported="true" kind="lib" path="E:/products/websocket-spec~source-code-repository/trunk/api/server/lib/javax.websocket-server-api.jar"/>
 	<classpathentry kind="output" path="bin/classes"/>
 </classpath>
